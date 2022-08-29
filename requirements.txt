@@ -1,0 +1,9 @@
+numpy
+rasterio
+dask
+sklearn
+matplotlib
+geopandas
+numpy
+dask_geopandas
+shapely
